@@ -16,7 +16,6 @@ It is designed as an educational resource to help you understand the internals o
 
 ```bash
 KR
-
 ├── DES.py                 # DES 전체 알고리즘 구현 (ECB/CBC 지원)
 ├── DES_beginner.md        # 초심자를 위한 개념 정리 및 로직 설명 가이드
 ├── DES_example.py         # ECB 및 CBC 모드 테스트 예제 실행 파일
